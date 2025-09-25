@@ -2,3 +2,6 @@ asgiref==3.8.1
 Django==5.1
 sqlparse==0.5.1
 typing-extensions==4.12.2
+
+
+
